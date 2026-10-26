@@ -51,11 +51,10 @@ Key highlights:
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| 🩸 **Blood Donation Project** | A project focused on donor registration and blood-donation coordination | Full-stack web development |
+| [🩸 **Blood Donation Project**]([https://github.com/hafsaZtudIO/User-Register](https://github.com/sakariyemohamoud05-source/Blood-Bank-donation-Project)) | A project focused on donor registration and blood-donation coordination | Full-stack web development |
 | [User Register](https://github.com/hafsaZtudIO/User-Register) | Reusable React components, props, and form handling | React, Vite, JavaScript, CSS |
 | [Student Management System](https://github.com/hafsaZtudIO/student-management-system1) | A browser-based student management interface | HTML |
-| [My Portfolio](https://github.com/hafsaZtudIO/My-portfolio) | An early personal portfolio project | HTML |
-
+| [Hotel Booking System](https://github.com/hafsaZtudIO/hotel-booking-system) |full-stack CRUD, REST APIs, booking validation, conflict prevention, and responsive design | React, Vite, React Router, Node.js, Express, and MongoDB, with optional local JSON storage
 ## Tech stack
 
 <p align="center">
