@@ -47,14 +47,29 @@ Key highlights:
 - Consent-based community publishing with moderation workflows
 - Authentication, validation, ownership checks, rate limiting, and API tests
 
+### [Barwaaqo Electronics](https://github.com/hafsaZtudIO/barwaaqo-electronics-demo)
+
+A full-stack retail workspace for point of sale, inventory, customer credit, and supplier purchases, with a public demo using fictional browser-local data.
+
+`Next.js` · `React` · `Node.js` · `Express` · `Supabase` · `PostgreSQL`
+
+Key highlights:
+
+- Product search, register preferences, item discounts, printable receipts, and partial returns
+- Stock movements, customer balances, supplier orders, and expense tracking
+- Searchable sales history with date filters, return status, sorting, and pagination
+- Role-based employee access and offline invoice synchronization in the connected shop
+
+[Try the live demo](https://hafsaztudio.github.io/barwaaqo-electronics-demo/) · [Explore the source](https://github.com/hafsaZtudIO/barwaaqo-electronics-demo)
+
 ## More projects
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [🩸 **Blood Donation Project**]([https://github.com/hafsaZtudIO/User-Register](https://github.com/sakariyemohamoud05-source/Blood-Bank-donation-Project)) | A project focused on donor registration and blood-donation coordination | Full-stack web development |
+| [🩸 **Blood Donation Project**](https://github.com/sakariyemohamoud05-source/Blood-Bank-donation-Project) | A project focused on donor registration and blood-donation coordination | Full-stack web development |
 | [User Register](https://github.com/hafsaZtudIO/User-Register) | Reusable React components, props, and form handling | React, Vite, JavaScript, CSS |
 | [Student Management System](https://github.com/hafsaZtudIO/student-management-system1) | A browser-based student management interface | HTML |
-| [Hotel Booking System](https://github.com/hafsaZtudIO/hotel-booking-system) |full-stack CRUD, REST APIs, booking validation, conflict prevention, and responsive design | React, Vite, React Router, Node.js, Express, and MongoDB, with optional local JSON storage
+| [Hotel Booking System](https://github.com/hafsaZtudIO/hotel-booking-system) | Full-stack CRUD, REST APIs, booking validation, conflict prevention, and responsive design | React, Vite, React Router, Node.js, Express, and MongoDB, with optional local JSON storage |
 ## Tech stack
 
 <p align="center">
